@@ -1,6 +1,6 @@
 # What is this ?
 
-This is a module that works in the following way:
+This is a module that helps in evaluating the subjective answers in the following way:
 
 Correct: This is when the submitted answer is judged to be fully correct.
 
