@@ -4,7 +4,7 @@ This is a module that works in the following way:
 
 Correct: This is when the submitted answer is judged to be fully correct.
 
-Close match: This is when the answer is judged to be close to the right answer, but not close enough to be marked correct. In this case, we want to send a hint to the user. e.g.
+Close match: This is when the answer is judged to be close to the right answer, but not close enough to be marked correct. In this case, we send a hint to the user. e.g.
 
 If the answer is “Mahatma Gandhi” but they submit “Mahatma Gaandhi”, it returns a hint like: “You’ve almost got the right answer, it’s just a few characters off. Check for typos or similar variations.”
 

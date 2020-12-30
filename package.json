@@ -1,0 +1,23 @@
+{
+  "name": "smart-answer-eval",
+  "version": "1.0.0",
+  "description": "Evaluate Subjective Answers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patil2099/Smart-Answer-Evalution-.git"
+  },
+  "keywords": [
+    "Answers",
+    "Evaluation"
+  ],
+  "author": "Pankaj Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Patil2099/Smart-Answer-Evalution-/issues"
+  },
+  "homepage": "https://github.com/Patil2099/Smart-Answer-Evalution-#readme"
+}
